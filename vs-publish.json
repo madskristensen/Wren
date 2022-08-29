@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "programming languages" ],
+  "identity": {
+    "internalName": "Wren",
+    "tags": [ "language", "scripting" ]
+  },
+  "assetFiles": [
+    {
+      "pathOnDisk": "art/screenshot.png",
+      "targetPath": "art/screenshot.png"
+    }
+  ],
+  "overview": "README.md",
+  "publisher": "MadsKristensen",
+  "repo": "https://github.com/MadsKristensen/dotenv"
+}

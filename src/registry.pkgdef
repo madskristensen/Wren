@@ -1,0 +1,8 @@
+﻿[$RootKey$\TextMate\Repositories]
+"Wren"="$PackageFolder$"
+
+[$RootKey$\ShellFileAssociations\.wren]
+"DefaultIconMoniker"="KnownMonikers.Script"
+
+[$RootKey$\TextMate\LanguageConfiguration\GrammarMapping]
+"source.env"="$PackageFolder$\language-configuration.json"
