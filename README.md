@@ -11,7 +11,7 @@ or get the [CI build][vsixgallery].
 
 --------------------------------------
 
-Visual Studio syntax highlighting support for Wren (.wren) files. Based on the [extension](https://github.com/Nelarius/vscode-wren) for VS Code.
+Visual Studio syntax highlighting support for [Wren](https://wren.io/) (.wren) files. Based on the [extension](https://github.com/Nelarius/vscode-wren) for VS Code.
 
 ![Screenshot](art/screenshot.png)
 
