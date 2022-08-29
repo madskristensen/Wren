@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Wren.a965bd57-3def-470f-b038-499c461e6de3" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="Wren.a965bd57-3def-470f-b038-499c461e6de3" Version="1.0.1" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Wren</DisplayName>
         <Description xml:space="preserve">Visual Studio syntax highlighting support for Wren (.wren) files</Description>
         <MoreInfo>https://github.com/madskristensen/wren</MoreInfo>
