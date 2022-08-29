@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="Wren.a965bd57-3def-470f-b038-499c461e6de3" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Wren</DisplayName>
-        <Description xml:space="preserve">Visual Studio syntax highlighting support for environment Wren (.wren) files</Description>
+        <Description xml:space="preserve">Visual Studio syntax highlighting support for Wren (.wren) files</Description>
         <MoreInfo>https://github.com/madskristensen/wren</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
